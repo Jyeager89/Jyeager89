@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh
 - 👀 I’m interested in learning to code and making friends
 - 🌱 I’m currently learning Html CSS JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects that I'm able to learn from or assist in making
 - 📫 How to reach me jyeager89@hotmail.com
 
 <!---
